@@ -1,0 +1,56 @@
+{
+  "reference_audio": "data/reference/voz_referencia.wav",
+  "texts_used": [
+    "Hello, this is Lucia speaking.",
+    "Voice cloning is amazing.",
+    "I love interactive systems."
+  ],
+  "models": {
+    "xtts_v2": [
+      {
+        "file": "output_1.wav",
+        "speaker_similarity": 0.38641154766082764,
+        "snr": 0.25582268834114075,
+        "zcr": 0.0,
+        "duration": 7.0
+      },
+      {
+        "file": "output_2.wav",
+        "speaker_similarity": 0.38641154766082764,
+        "snr": 0.25604748725891113,
+        "zcr": 0.0,
+        "duration": 8.0
+      },
+      {
+        "file": "output_3.wav",
+        "speaker_similarity": 0.38641154766082764,
+        "snr": 0.2562134563922882,
+        "zcr": 0.0,
+        "duration": 9.0
+      }
+    ],
+    "yourtts": [
+      {
+        "file": "output_1.wav",
+        "speaker_similarity": 0.7815479040145874,
+        "snr": 0.10056717693805695,
+        "zcr": 0.1551245712652439,
+        "duration": 2.593
+      },
+      {
+        "file": "output_2.wav",
+        "speaker_similarity": 0.7070770263671875,
+        "snr": 0.10258755832910538,
+        "zcr": 0.11870260799632353,
+        "duration": 2.161
+      },
+      {
+        "file": "output_3.wav",
+        "speaker_similarity": 0.6767008304595947,
+        "snr": 0.07654557377099991,
+        "zcr": 0.18408837256493507,
+        "duration": 2.433
+      }
+    ]
+  }
+}

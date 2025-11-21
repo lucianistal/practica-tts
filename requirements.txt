@@ -1,0 +1,14 @@
+# TTS - versión más estable
+TTS==0.21.1
+
+# PyTorch
+torch==2.1.0
+torchaudio==2.1.0
+
+# Audio
+librosa
+soundfile
+
+# Métricas
+resemblyzer
+matplotlib
