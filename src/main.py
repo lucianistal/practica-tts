@@ -23,9 +23,9 @@ OUTPUT_DIR_YOURTTS = "data/generated/yourtts"
 
 # Textos en INGLÉS (los modelos funcionan mejor)
 TEST_TEXTS = [
-    "Voice cloning technology has advanced significantly in recent years.",
-    "This technology allows us to replicate voices with minimal audio samples.",
-    "Natural language processing is fundamental for interactive systems."
+    "Hello, this is Lucia speaking.",
+    "Voice cloning is amazing.",
+    "I love interactive systems."
 ]
 
 
